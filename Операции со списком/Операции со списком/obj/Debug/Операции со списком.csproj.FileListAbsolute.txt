@@ -1,0 +1,7 @@
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\Операции со списком\Операции со списком\bin\Debug\Операции со списком.exe.config
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\Операции со списком\Операции со списком\bin\Debug\Операции со списком.exe
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\Операции со списком\Операции со списком\bin\Debug\Операции со списком.pdb
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\Операции со списком\Операции со списком\obj\Debug\Операции со списком.csproj.AssemblyReference.cache
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\Операции со списком\Операции со списком\obj\Debug\Операции со списком.csproj.CoreCompileInputs.cache
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\Операции со списком\Операции со списком\obj\Debug\Операции со списком.exe
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\Операции со списком\Операции со списком\obj\Debug\Операции со списком.pdb
