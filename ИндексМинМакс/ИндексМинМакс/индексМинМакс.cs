@@ -20,13 +20,12 @@ namespace ИндексМинМакс
             }
             int minIndex = 0;
             int maxIndex = 0;
-            for (int i = 0; i < myList.Count; i++)
+            for(int i = 0; i < myList.Count; i++)
             {
-                if (myList[i] == minNum) { minIndex = i; }
+                if (myList[i] == minNum) {  minIndex = i; }
                 if (myList[i] == maxNum) { maxIndex = i; }
             }
-            Console.WriteLine($"Индекс минимального числа: {minIndex}, значение: {minNum}");
-            Console.WriteLine($"Индекс максимального числа: {maxIndex}, значение: {maxNum}");
+            Console.WriteLine($"Индекс минимального числа:{minIndex}/nИндекс максимального числа: {maxIndex}");
         }
     }
 }

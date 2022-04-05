@@ -5,3 +5,10 @@ C:\Users\днс\source\repos\ИндексМинМакс\ИндексМинМак
 C:\Users\днс\source\repos\ИндексМинМакс\ИндексМинМакс\obj\Debug\ИндексМинМакс.csproj.CoreCompileInputs.cache
 C:\Users\днс\source\repos\ИндексМинМакс\ИндексМинМакс\obj\Debug\ИндексМинМакс.exe
 C:\Users\днс\source\repos\ИндексМинМакс\ИндексМинМакс\obj\Debug\ИндексМинМакс.pdb
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\ИндексМинМакс\ИндексМинМакс\obj\Debug\ИндексМинМакс.csproj.AssemblyReference.cache
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\ИндексМинМакс\ИндексМинМакс\obj\Debug\ИндексМинМакс.csproj.CoreCompileInputs.cache
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\ИндексМинМакс\ИндексМинМакс\obj\Debug\ИндексМинМакс.exe
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\ИндексМинМакс\ИндексМинМакс\obj\Debug\ИндексМинМакс.pdb
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\ИндексМинМакс\ИндексМинМакс\bin\Debug\ИндексМинМакс.exe.config
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\ИндексМинМакс\ИндексМинМакс\bin\Debug\ИндексМинМакс.exe
+C:\Users\днс\source\repos\Задания Ваньку\CyclesTasks\ИндексМинМакс\ИндексМинМакс\bin\Debug\ИндексМинМакс.pdb
