@@ -1,0 +1,8 @@
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\количество по условиям\количество по условиям\bin\Debug\количество по условиям.exe.config
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\количество по условиям\количество по условиям\bin\Debug\количество по условиям.exe
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\количество по условиям\количество по условиям\bin\Debug\количество по условиям.pdb
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\количество по условиям\количество по условиям\obj\Debug\количество по условиям.csproj.AssemblyReference.cache
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\количество по условиям\количество по условиям\obj\Debug\количество по условиям.csproj.SuggestedBindingRedirects.cache
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\количество по условиям\количество по условиям\obj\Debug\количество по условиям.csproj.CoreCompileInputs.cache
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\количество по условиям\количество по условиям\obj\Debug\количество по условиям.exe
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\количество по условиям\количество по условиям\obj\Debug\количество по условиям.pdb
