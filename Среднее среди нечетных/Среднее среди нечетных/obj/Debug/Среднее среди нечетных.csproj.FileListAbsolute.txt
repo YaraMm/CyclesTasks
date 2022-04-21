@@ -1,0 +1,8 @@
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\Среднее среди нечетных\Среднее среди нечетных\bin\Debug\Среднее среди нечетных.exe.config
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\Среднее среди нечетных\Среднее среди нечетных\bin\Debug\Среднее среди нечетных.exe
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\Среднее среди нечетных\Среднее среди нечетных\bin\Debug\Среднее среди нечетных.pdb
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\Среднее среди нечетных\Среднее среди нечетных\obj\Debug\Среднее среди нечетных.csproj.AssemblyReference.cache
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\Среднее среди нечетных\Среднее среди нечетных\obj\Debug\Среднее среди нечетных.csproj.SuggestedBindingRedirects.cache
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\Среднее среди нечетных\Среднее среди нечетных\obj\Debug\Среднее среди нечетных.csproj.CoreCompileInputs.cache
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\Среднее среди нечетных\Среднее среди нечетных\obj\Debug\Среднее среди нечетных.exe
+C:\Users\forst\OneDrive\Рабочий стол\#\задание Ванька\CyclesTasks\Среднее среди нечетных\Среднее среди нечетных\obj\Debug\Среднее среди нечетных.pdb

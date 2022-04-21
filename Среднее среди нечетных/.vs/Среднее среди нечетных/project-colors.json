@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bfcd979-e0c8-46c9-a9cc-97735156772f": {
+      "ProjectGuid": "3bfcd979-e0c8-46c9-a9cc-97735156772f",
+      "DisplayName": "Среднее среди нечетных",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
