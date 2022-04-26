@@ -1,0 +1,7 @@
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\поиск второго макс, мин\поиск второго макс, мин\bin\Debug\поиск второго макс, мин.exe.config
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\поиск второго макс, мин\поиск второго макс, мин\bin\Debug\поиск второго макс, мин.exe
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\поиск второго макс, мин\поиск второго макс, мин\bin\Debug\поиск второго макс, мин.pdb
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\поиск второго макс, мин\поиск второго макс, мин\obj\Debug\поиск второго макс, мин.csproj.AssemblyReference.cache
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\поиск второго макс, мин\поиск второго макс, мин\obj\Debug\поиск второго макс, мин.csproj.CoreCompileInputs.cache
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\поиск второго макс, мин\поиск второго макс, мин\obj\Debug\поиск второго макс, мин.exe
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\поиск второго макс, мин\поиск второго макс, мин\obj\Debug\поиск второго макс, мин.pdb
