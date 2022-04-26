@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "сортировка пузырьком", "сортировка пузырьком\сортировка пузырьком.csproj", "{AEAA014C-1675-4075-9EF7-62B784EBFABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAA014C-1675-4075-9EF7-62B784EBFABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAA014C-1675-4075-9EF7-62B784EBFABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAA014C-1675-4075-9EF7-62B784EBFABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAA014C-1675-4075-9EF7-62B784EBFABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7ADEBB2-EDB5-411C-8EA3-83EA198A4935}
+	EndGlobalSection
+EndGlobal

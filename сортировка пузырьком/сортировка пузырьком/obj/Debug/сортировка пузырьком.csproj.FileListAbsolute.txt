@@ -1,0 +1,7 @@
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\сортировка пузырьком\сортировка пузырьком\bin\Debug\сортировка пузырьком.exe.config
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\сортировка пузырьком\сортировка пузырьком\bin\Debug\сортировка пузырьком.exe
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\сортировка пузырьком\сортировка пузырьком\bin\Debug\сортировка пузырьком.pdb
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\сортировка пузырьком\сортировка пузырьком\obj\Debug\сортировка пузырьком.csproj.AssemblyReference.cache
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\сортировка пузырьком\сортировка пузырьком\obj\Debug\сортировка пузырьком.csproj.CoreCompileInputs.cache
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\сортировка пузырьком\сортировка пузырьком\obj\Debug\сортировка пузырьком.exe
+C:\Users\днс\Desktop\шарп\задания ваньку\CyclesTasks\сортировка пузырьком\сортировка пузырьком\obj\Debug\сортировка пузырьком.pdb
